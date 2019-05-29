@@ -14,7 +14,7 @@
     "http-errors": "~1.6.2",
     "morgan": "~1.9.0",
     "multer": "^1.4.1",
-    "nodemon": "^1.18.10",
-    "sqlite3": "^4.0.6"
+    "sqlite3": "^4.0.6",
+    "svg-captcha": "^1.4.0"
   }
 }
